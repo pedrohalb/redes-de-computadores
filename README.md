@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/pedrohalb/redes-de-computadores?style=for-the-badge)
 
 <br><br>
-<img src="JavaFX - O.O/hostel.jpg" alt="Hostel Image" width="600">
+<img src="protocol.png" alt="Hostel Image" width="600">
 
 >Software that implements the Go-Back-N protocol, containing parallelism, accumulation of ACKs and resending packets in case of loss. It uses sequence numbers and timeouts for recording
 >and resending packets.
