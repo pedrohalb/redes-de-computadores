@@ -126,7 +126,7 @@ public class EnviaDados extends Thread {
 
             switch (this.getFuncao()) {
                 case "envia":
-                    divideArquivo("C:\\Users\\ongio_1lak36v\\Downloads\\github\\redes-trabalho-2\\ProtocoloParalelo\\teste-29mb.zip");
+                    divideArquivo("entrada.c");
 
                     enviaProximaJanela();
 
